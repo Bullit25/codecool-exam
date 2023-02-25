@@ -120,6 +120,8 @@ chown -R :exam /tmp/netserver
 A képen látható northwind DB séma a Unix felhasználód nevével azonos nevű DB-be van
 betöltve (tehát, ha john.doe@example.com az email címed, akkor a DB neve john.doe)
 
+![Image of db](db.png)
+
 ### 1. Feladat:
 Figyelem: minden lekérdezést külön fájlba kell írnod (task1a.sql, task2b.sql, stb.)
 1 Kérdezd le a megfelelő adatokat a "products" táblából
@@ -250,7 +252,6 @@ Indíts egy EC2 instance-t:
 - a korábban létrehozott "-Gov2a" végződésű névvel ellátott security group-ot rendeld hozzá az
 instance-hoz
 
-6
 ### 3. FELADAT:
 Hozz létre egy másik security group-ot:
 - frankfurti régióban hozd létre (eu-central-1)
