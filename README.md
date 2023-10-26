@@ -231,7 +231,7 @@ CREATE TABLE public.student
 );
 ```
 
-## clod-1 mappa feladatai:
+## cloud-1 mappa feladatai:
 Hozz létre egy security group-ot:
 - frankfurti régióban hozd létre (eu-central-1)
 - a régió default VPC-jében
